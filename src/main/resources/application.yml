@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      database: nms-backend
+      uri: mongodb+srv://admin-shubham:admin123@cluster0.q0dsc.mongodb.net/?retryWrites=true&w=majority
